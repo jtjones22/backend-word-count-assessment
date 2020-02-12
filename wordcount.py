@@ -48,6 +48,9 @@ import sys
 # Then print_words() and print_top() can just call the utility function.
 
 
+# took me 3 hours to complete
+
+
 def count_words(filename):
     with open(filename, "r") as f:
         word_count = {}
